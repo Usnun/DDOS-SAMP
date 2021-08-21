@@ -5,7 +5,7 @@ import socket
 import threading
 
 print("~~~ DDOS SAMP ~~~")
-print("~~~ Code and Scripted by Rence ~~~")
+print("~~~ Code and Scripted by Kepo ~~~")
 print("~~~ Script ini dibuat hanya untuk rence Pribadi. ~~~")
 print("~~~ Don't Forget to subscribe Levi ~~~")
 print("~~~ JANGAN ABUSE. ~~~")
