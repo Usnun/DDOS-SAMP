@@ -1,1 +1,1 @@
-# DDOS-SAMP
+SAMP DDOS
